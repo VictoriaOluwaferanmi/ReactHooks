@@ -1,4 +1,4 @@
 # React Fundamentals
 
-#### React Hooks
+#### Understanding React Hooks The Easy Way
 
